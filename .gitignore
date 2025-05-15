@@ -1,0 +1,10 @@
+*-gen.ld
+*.bin
+*.d
+*.elf
+*.map
+*.o
+*.su
+cscope*
+tags
+*.stylecheck
